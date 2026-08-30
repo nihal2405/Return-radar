@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.env
+start_tunnel.sh
+firebase-key.json
